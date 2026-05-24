@@ -13,6 +13,7 @@
 - 絶剣/tempestoso/@daviesdaa
 - ExcaliburNMB
 - 南梁楚歌
+- 一只蓝聪
 
 
 
